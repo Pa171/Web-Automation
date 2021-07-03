@@ -1,4 +1,4 @@
-#WEB_AUTOMATION_PROJECT
+#WEB_AUTOMATION
 
 from selenium import webdriver   #importing selenium
 
